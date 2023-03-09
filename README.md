@@ -1,1 +1,1 @@
-# contador
+A very simple app to count how many passes a player does in a football match. 
